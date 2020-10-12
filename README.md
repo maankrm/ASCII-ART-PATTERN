@@ -5,3 +5,5 @@ ASCII ART is good practice with nested loops in c# ( console application)
 <p>This is a one of more and more pattern samples you can get it by fusion two symboles by input two numbers in range (0 to 20)</p>
 <img src="https://github.com/maankrm/ASCII-ART-PATTERN/blob/main/image2.png" width="500">
 <h4>Another Pattern</h4>
+<img src="https://github.com/maankrm/ASCII-ART-PATTERN/blob/main/image3.png" width ="500">
+<img src="https://github.com/maankrm/ASCII-ART-PATTERN/blob/main/image3.png" width ="500">
